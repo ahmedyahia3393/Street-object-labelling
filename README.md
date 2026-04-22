@@ -7,7 +7,7 @@ winget install --id Microsoft.VisualStudio.Community
 ```
 
 # Example
-When The given input is fed to the algorithm
+When the given input is fed to the algorithm
 
 <img width="4032" height="3024" alt="input_img" src="https://github.com/user-attachments/assets/07d2510b-bab0-4cf6-8cf8-da2ba94f3c3c" />
 
