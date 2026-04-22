@@ -1,7 +1,7 @@
 # Street-object-labelling
 The aim of this repo is to implement an alogrihtm that is capable of detecting cars, pedestrians, cyclists, and more with bounding boxes and confidence scores. Using an RGB camera mounted on the windshield of a real car. This project is part of the Image Processing and Computer Vision Winter 2019 course. Code editing was done by the IDE: [Microsoft Visual Studio](https://visualstudio.microsoft.com/).
 
-#Installation
+# Installation
 ```Bibtex
 winget install --id Microsoft.VisualStudio.Community
 ```
